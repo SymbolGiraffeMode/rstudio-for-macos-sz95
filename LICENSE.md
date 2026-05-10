@@ -1,4 +1,4 @@
-
+Enhance RStudio for macOS with vip RStudio for macOS Addon | code-autocompletion + pivot-tables, the #1 addon. Includes code-autocompletion and pivot-tables for a smoother and
 
 
 
